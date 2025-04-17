@@ -1,0 +1,238 @@
+[
+  {
+    "player1": "Kevin Durant",
+    "player2": "James Harden",
+    "answers": [
+      {
+        "name": "Kyrie Irving",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Kevin Durant",
+    "player2": "Russell Westbrook",
+    "answers": [
+      {
+        "name": "LeBron James",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Kevin Durant",
+    "player2": "Bradley Beal",
+    "answers": [
+      {
+        "name": "Devin Booker",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "LeBron James",
+    "player2": "Russell Westbrook",
+    "answers": [
+      {
+        "name": "Anthony Davis",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "LeBron James",
+    "player2": "Devin Booker",
+    "answers": [
+      {
+        "name": "Kevin Durant",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Stephen Curry",
+    "player2": "Klay Thompson",
+    "answers": [
+      {
+        "name": "Draymond Green",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Klay Thompson",
+    "player2": "Stephen Curry",
+    "answers": [
+      {
+        "name": "Draymond Green",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Joel Embiid",
+    "player2": "Russell Westbrook",
+    "answers": [
+      {
+        "name": "James Harden",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "James Harden",
+    "player2": "Kevin Durant",
+    "answers": [
+      {
+        "name": "Kyrie Irving",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "James Harden",
+    "player2": "Devin Booker",
+    "answers": [
+      {
+        "name": "Kevin Durant",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Russell Westbrook",
+    "player2": "Kevin Durant",
+    "answers": [
+      {
+        "name": "LeBron James",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Russell Westbrook",
+    "player2": "LeBron James",
+    "answers": [
+      {
+        "name": "Anthony Davis",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Russell Westbrook",
+    "player2": "Joel Embiid",
+    "answers": [
+      {
+        "name": "James Harden",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Devin Booker",
+    "player2": "LeBron James",
+    "answers": [
+      {
+        "name": "Kevin Durant",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Devin Booker",
+    "player2": "James Harden",
+    "answers": [
+      {
+        "name": "Kevin Durant",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Bradley Beal",
+    "player2": "Kevin Durant",
+    "answers": [
+      {
+        "name": "Devin Booker",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Kevin Durant",
+    "player2": "LeBron James",
+    "answers": [
+      {
+        "name": "Jeff Green",
+        "points": 1
+      },
+      {
+        "name": "Kyrie Irving",
+        "points": 3
+      }
+    ],
+    "difficulty": 2
+  },
+  {
+    "player1": "LeBron James",
+    "player2": "Kevin Durant",
+    "answers": [
+      {
+        "name": "Jeff Green",
+        "points": 1
+      },
+      {
+        "name": "Kyrie Irving",
+        "points": 3
+      }
+    ],
+    "difficulty": 2
+  },
+  {
+    "player1": "LeBron James",
+    "player2": "James Harden",
+    "answers": [
+      {
+        "name": "Kevin Durant",
+        "points": 1
+      },
+      {
+        "name": "Kyrie Irving",
+        "points": 3
+      }
+    ],
+    "difficulty": 2
+  },
+  {
+    "player1": "Jrue Holiday",
+    "player2": "Damian Lillard",
+    "answers": [
+      {
+        "name": "Brook Lopez",
+        "points": 1
+      },
+      {
+        "name": "Giannis Antetokounmpo",
+        "points": 3
+      }
+    ],
+    "difficulty": 2
+  }
+]
