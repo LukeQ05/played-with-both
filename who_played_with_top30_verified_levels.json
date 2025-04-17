@@ -1,0 +1,222 @@
+[
+  {
+    "player1": "LeBron James",
+    "player2": "Damian Lillard",
+    "answers": [
+      {
+        "name": "Donovan Mitchell",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "LeBron James",
+    "player2": "Kyrie Irving",
+    "answers": [
+      {
+        "name": "Kawhi Leonard",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Stephen Curry",
+    "player2": "Nikola Joki\u0107",
+    "answers": [
+      {
+        "name": "James Harden",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Stephen Curry",
+    "player2": "LaMelo Ball",
+    "answers": [
+      {
+        "name": "Joel Embiid",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Giannis Antetokounmpo",
+    "player2": "Luka Don\u010di\u0107",
+    "answers": [
+      {
+        "name": "James Harden",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Jayson Tatum",
+    "player2": "Joel Embiid",
+    "answers": [
+      {
+        "name": "Jimmy Butler",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Jayson Tatum",
+    "player2": "Luka Don\u010di\u0107",
+    "answers": [
+      {
+        "name": "Jimmy Butler",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Jayson Tatum",
+    "player2": "Devin Booker",
+    "answers": [
+      {
+        "name": "Jimmy Butler",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Jayson Tatum",
+    "player2": "Damian Lillard",
+    "answers": [
+      {
+        "name": "De\u2019Aaron Fox",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Jayson Tatum",
+    "player2": "Bradley Beal",
+    "answers": [
+      {
+        "name": "LeBron James",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Joel Embiid",
+    "player2": "Tyrese Haliburton",
+    "answers": [
+      {
+        "name": "LaMelo Ball",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Joel Embiid",
+    "player2": "LaMelo Ball",
+    "answers": [
+      {
+        "name": "Kawhi Leonard",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Luka Don\u010di\u0107",
+    "player2": "Karl-Anthony Towns",
+    "answers": [
+      {
+        "name": "Trae Young",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Luka Don\u010di\u0107",
+    "player2": "Tyrese Haliburton",
+    "answers": [
+      {
+        "name": "Anthony Davis",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Luka Don\u010di\u0107",
+    "player2": "LaMelo Ball",
+    "answers": [
+      {
+        "name": "Kevin Durant",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Nikola Joki\u0107",
+    "player2": "Karl-Anthony Towns",
+    "answers": [
+      {
+        "name": "Donovan Mitchell",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Devin Booker",
+    "player2": "Damian Lillard",
+    "answers": [
+      {
+        "name": "Donovan Mitchell",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Jimmy Butler",
+    "player2": "Jaylen Brown",
+    "answers": [
+      {
+        "name": "Jayson Tatum",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Damian Lillard",
+    "player2": "Shai Gilgeous-Alexander",
+    "answers": [
+      {
+        "name": "De\u2019Aaron Fox",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Damian Lillard",
+    "player2": "De\u2019Aaron Fox",
+    "answers": [
+      {
+        "name": "Karl-Anthony Towns",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  }
+]
