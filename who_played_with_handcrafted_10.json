@@ -1,0 +1,112 @@
+[
+  {
+    "player1": "LeBron James",
+    "player2": "James Harden",
+    "answers": [
+      {
+        "name": "Russell Westbrook",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "LeBron James",
+    "player2": "Anthony Davis",
+    "answers": [
+      {
+        "name": "Russell Westbrook",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "LeBron James",
+    "player2": "Russell Westbrook",
+    "answers": [
+      {
+        "name": "Anthony Davis",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Kevin Durant",
+    "player2": "Steph Curry",
+    "answers": [
+      {
+        "name": "Draymond Green",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Kevin Durant",
+    "player2": "James Harden",
+    "answers": [
+      {
+        "name": "Russell Westbrook",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Kevin Durant",
+    "player2": "Kyrie Irving",
+    "answers": [
+      {
+        "name": "James Harden",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Kevin Durant",
+    "player2": "Joel Embiid",
+    "answers": [
+      {
+        "name": "James Harden",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Kevin Durant",
+    "player2": "Anthony Davis",
+    "answers": [
+      {
+        "name": "Russell Westbrook",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Kevin Durant",
+    "player2": "Russell Westbrook",
+    "answers": [
+      {
+        "name": "James Harden",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  },
+  {
+    "player1": "Kevin Durant",
+    "player2": "Chris Paul",
+    "answers": [
+      {
+        "name": "James Harden",
+        "points": 1
+      }
+    ],
+    "difficulty": 1
+  }
+]

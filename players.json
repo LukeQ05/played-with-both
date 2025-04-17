@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Anthony Davis",
+    "image_url": "https://www.basketball-reference.com/req/202106291/images/players/davisan01.jpg"
+  },
+  {
+    "name": "Chris Paul",
+    "image_url": "https://www.basketball-reference.com/req/202106291/images/players/paulch01.jpg"
+  },
+  {
+    "name": "Draymond Green",
+    "image_url": "https://www.basketball-reference.com/req/202106291/images/players/greendr01.jpg"
+  },
+  {
+    "name": "James Harden",
+    "image_url": "https://www.basketball-reference.com/req/202106291/images/players/hardeja01.jpg"
+  },
+  {
+    "name": "Joel Embiid",
+    "image_url": "https://www.basketball-reference.com/req/202106291/images/players/embiijo01.jpg"
+  },
+  {
+    "name": "Kevin Durant",
+    "image_url": "https://www.basketball-reference.com/req/202106291/images/players/duranke01.jpg"
+  },
+  {
+    "name": "Kyrie Irving",
+    "image_url": "https://www.basketball-reference.com/req/202106291/images/players/irvinky01.jpg"
+  },
+  {
+    "name": "LeBron James",
+    "image_url": "https://www.basketball-reference.com/req/202106291/images/players/jamesle01.jpg"
+  },
+  {
+    "name": "Russell Westbrook",
+    "image_url": "https://www.basketball-reference.com/req/202106291/images/players/westbru01.jpg"
+  },
+  {
+    "name": "Steph Curry",
+    "image_url": "https://www.basketball-reference.com/req/202106291/images/players/curryst01.jpg"
+  }
+]
